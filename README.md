@@ -12,7 +12,7 @@ This program was made to practice Test-Driven Development in Ruby. The program u
 
 * _open terminal_
 * _type "cd desktop", then press enter_
-* _type "git clone https://github.com/Joebenitus/scrabble\_score", then press enter_
+* _type "git clone https://github.com/Joebenitus/scrabble_score", then press enter_
 * _type "cd scrabble\_score", then press enter_
 * _to run program, type "./lib/app.rb"_
 
